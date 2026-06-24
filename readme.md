@@ -1,7 +1,7 @@
 ### Hi there, I'm _Muhammad Shifat_
 **Web Developer** |  **Automation Expert**
 # 💫 About Me:
-✔  I’m currently Trying React JS<br>✔  I’m looking to collaborate on Github<br>✔  Ask me about Web Development<br>✔  How to reach me: muhammadshifat@yahoo.com
+✔  I’m currently Trying React JS, n8n, OpenClaw, Hermes<br>✔  I’m looking to collaborate on Github<br>✔  Ask me about Web Development<br>✔  How to reach me: muhammadshifat@yahoo.com
 
 
 ## 🌐 Socials:
