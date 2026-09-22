@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="198" height="48" viewBox="0 0 198 48">
+  <rect
+    width="198"
+    height="48"
+    rx="24"
+    fill="#FFDD00"
+  />
+
+  <g
+    transform="translate(16 15.5)"
+    fill="none"
+    stroke="#111111"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  >
+    <path d="M10 2v2"/>
+    <path d="M14 2v2"/>
+    <path d="M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1"/>
+    <path d="M6 2v2"/>
+  </g>
+
+  <text
+    x="40"
+    y="30"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="14"
+    font-weight="700"
+    fill="#111111"
+  >Support shifatnpc</text>
+</svg>
